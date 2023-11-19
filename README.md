@@ -52,7 +52,6 @@ A task consists of: 1.Description, 2.label, 3.reminder, 4.due date
 - **IDE**: Android Studio
 - **Database**: SQLite 
 - **GitHub Repository**: [ProjectLifeTracker]([https://github.com/SofiaBili/Project-E-Learning-Platform](https://github.com/SofiaBili/LifeTracker))
-- **Database**: MariaDB 2.7.0
 
 - ## Technologies Used
 - RecyclerView
