@@ -1,5 +1,5 @@
 # LifeTracker
-An app that can help you keep track of your to-do's and budget with built-in calendar and profile. University project for the subject "Android programming" at University of West Attica, departement of Informatics and Computer Engineering.
+An app that can help you keep track of your to-do's and budget with built-in calendar and profile. University project for the subject "Android programming" at University of West Attica, department of Informatics and Computer Engineering.
 
 ## Table of Contents
 - [About](#about)
